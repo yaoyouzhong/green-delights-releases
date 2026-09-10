@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="242" viewBox="0 0 1200 242" role="img" aria-labelledby="title desc">
+  <title id="title">从一盆植物开始的照护循环</title>
+  <desc id="desc">添加植物、查看建议、记录照护、更新建议。真实记录帮助下一次照护判断。</desc>
+  <rect width="1200" height="242" rx="24" fill="#f6f4eb"/>
+  <g font-family="'Microsoft YaHei','Noto Sans CJK SC',sans-serif">
+    <g fill="#315a43" font-size="13" letter-spacing="2">
+      <text x="45" y="37">THE LITTLE GARDEN ROUTINE</text>
+      <text x="1136" y="37" text-anchor="end">GREEN DELIGHTS</text>
+    </g>
+    <g fill="#fffdf7" stroke="#dce3d5">
+      <rect x="32" y="61" width="260" height="147" rx="16"/>
+      <rect x="324" y="61" width="260" height="147" rx="16"/>
+      <rect x="616" y="61" width="260" height="147" rx="16"/>
+      <rect x="908" y="61" width="260" height="147" rx="16"/>
+    </g>
+    <g fill="none" stroke="#75906a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M149 117h27l-4 21h-19z M163 117V96 M163 109c-20 1-22-18-22-18 18-2 22 9 22 18z M163 102c1-18 21-19 21-19 1 16-12 22-21 19z"/>
+      <path d="M441 88h28v48h-28z M448 101h14 M448 111h14 M448 122h8"/>
+      <path d="M735 91h27v46h-35V99h8 M735 88h15v9h-15z M736 117l6 6 13-16"/>
+      <path d="M1020 108a20 20 0 0 1 35-11 M1055 87v12h-12 M1057 119a20 20 0 0 1-35 11 M1021 140v-12h12"/>
+      <path d="M301 134h13m-5-5 5 5-5 5 M593 134h13m-5-5 5 5-5 5 M885 134h13m-5-5 5 5-5 5"/>
+    </g>
+    <g font-size="26" font-weight="700" fill="#234b37" text-anchor="middle">
+      <text x="162" y="174">添加植物</text><text x="454" y="174">查看建议</text>
+      <text x="746" y="174">记录照护</text><text x="1038" y="174">更新建议</text>
+    </g>
+    <g font-size="12" fill="#7a846f">
+      <text x="50" y="87">01</text><text x="342" y="87">02</text><text x="634" y="87">03</text><text x="926" y="87">04</text>
+    </g>
+  </g>
+</svg>
