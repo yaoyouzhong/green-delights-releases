@@ -20,9 +20,11 @@
 
 ## 🎬 48 秒了解怡红快绿
 
-[![怡红快绿宣传片：今日照护、照片诊断与植物档案](assets/promo-cover.png)](VIDEO.md)
+https://github.com/user-attachments/assets/0671dd83-f037-4e91-b02c-f2356107d2f1
 
-**[▶ 观看宣传片](VIDEO.md)** · 48 秒 · 原生界面演示 · 配乐与音效
+点击上方播放器即可在本页观看，建议打开声音。48 秒 · 原生界面演示 · 配乐与音效
+
+[下载 1080p 原片](https://github.com/yaoyouzhong/green-delights-releases/releases/download/v0.3.2-rc.1/green-delights-promo.mp4)
 
 从今日照护、诊断与复查，到植物档案和本地备份，看看日常照护如何串起来。界面使用固定演示数据。
 
