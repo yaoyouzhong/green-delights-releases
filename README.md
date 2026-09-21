@@ -9,14 +9,14 @@
 把植物养在生活里，把照护记在手机里。<br />
 从一盆绿萝开始，慢慢拥有自己的小小花园。
 
-**[↓ 下载 Android 测试版](https://github.com/yaoyouzhong/green-delights-releases/releases/download/v0.3.2-rc.1/green-delights-v0.3.2-rc.1-10036-arm64.apk)**　·　[版本说明](https://github.com/yaoyouzhong/green-delights-releases/releases/tag/v0.3.2-rc.1)　·　[反馈问题](https://github.com/yaoyouzhong/green-delights-releases/issues)
+**[↓ 下载 Android 测试版](https://github.com/yaoyouzhong/green-delights-releases/releases/download/v0.3.2-rc.2/green-delights-v0.3.2-rc.2-10043-arm64.apk)**　·　[版本说明](https://github.com/yaoyouzhong/green-delights-releases/releases/tag/v0.3.2-rc.2)　·　[反馈问题](https://github.com/yaoyouzhong/green-delights-releases/issues)
 
-`Android 7.0+`　`arm64-v8a`　`手机本地运行`　`v0.3.2-rc.1`
+`Android 7.0+`　`arm64-v8a`　`手机本地运行`　`v0.3.2-rc.2`
 
 </div>
 
 > [!NOTE]
-> 这是公开测试版，**尚未完成真机覆盖升级与完整主流程验收**。安装前请导出备份，优先在测试设备使用。本仓库提供说明和安装包，应用源码保持私有。
+> 这是公开测试版，已在一台 Android 真机完成覆盖升级、启动和首页显示检查；完整业务主流程与其他机型仍需验证。安装前请导出备份，优先在测试设备使用。本仓库提供说明和安装包，应用源码保持私有。
 
 ## 🎬 48 秒了解怡红快绿
 
@@ -24,9 +24,23 @@ https://github.com/user-attachments/assets/0671dd83-f037-4e91-b02c-f2356107d2f1
 
 点击上方播放器即可在本页观看，建议打开声音。48 秒 · 原生界面演示 · 配乐与音效
 
-[下载 1080p 原片](https://github.com/yaoyouzhong/green-delights-releases/releases/download/v0.3.2-rc.1/green-delights-promo.mp4)
+[下载 1080p 原片](https://github.com/yaoyouzhong/green-delights-releases/releases/download/v0.3.2-rc.2/green-delights-promo.mp4)
 
 从今日照护、诊断与复查，到植物档案和本地备份，看看日常照护如何串起来。界面使用固定演示数据。
+
+## 这次更新：少一点打扰，多一点清楚
+
+- **首页更清楚：** 摘要和天气放在一起，统计按颜色区分，天气去掉重复标题，左侧天气与湿度、右侧突出温度，更新时间独立一行，地点栏与底栏更轻。
+- **浇水按需参考：** 默认关闭普通浇水提醒；关闭“浇水参考”后，首页也会隐藏对应内容。高风险和暂缓照护提示保留。
+- **复查按需展开：** 首页诊断复查说明默认折叠，点击“查看复查详情”再读完整内容。
+
+<p align="center">
+<img src="assets/today.png" alt="新版今日照护：摘要、彩色统计、天气与轻量导航。固定演示数据。" width="30%" />
+<img src="assets/plant.png" alt="植物档案与照护入口。固定演示数据。" width="30%" />
+<img src="assets/diagnosis.png" alt="诊断结论与处理方案。固定演示数据。" width="30%" />
+</p>
+
+截图由当前 App 页面渲染，使用固定演示数据，不包含个人照片或地点。
 
 ## 🌿 今天，这盆植物需要什么？
 
@@ -40,15 +54,15 @@ https://github.com/user-attachments/assets/0671dd83-f037-4e91-b02c-f2356107d2f1
 
 | 看懂它的需要 | 留住它的变化 |
 | :--- | :--- |
-| **💧 今日照护**<br />结合品种、环境与记录，提示浇水、施肥或检查。水培植物有对应的检查提示。 | **📷 成长相册**<br />保存成长照片和备注，在照片墙里回看一片新叶、一朵小花。 |
+| **💧 今日照护**<br />先看今日结论，再按颜色区分建议、暂缓与风险。浇水参考默认关闭，需要时再开启。 | **📷 成长相册**<br />保存成长照片和备注，在照片墙里回看一片新叶、一朵小花。 |
 | **🩺 诊断与复查**<br />用照片和症状辅助判断，记录救治行动，复查时比较前后变化。需自配视觉大模型。 | **📝 照护日记**<br />浇水、修剪、换盆、移动位置都留下记录，想回顾时有迹可循。 |
 | **🌤️ 摆放与换盆**<br />通过环境体检和根系评估，检查光照、通风、排水以及换盆条件。 | **🏡 多地点管理**<br />家里的阳台、办公室的窗台，分开管理，按地点逐盆确认照护。 |
 
 ### 一盆绿植的日常，可以很轻松
 
-**早上，先看一眼。** 打开今日照护，看看哪些植物值得留意。提示“检查盆土”时，摸一摸、看一看，再决定是否浇水。
+**早上，先看一眼。** 打开今日照护，先看摘要与天气，再看看哪些植物值得留意。浇水前摸一摸盆土、看看植物，再决定是否需要。
 
-**照顾过，就记下来。** 实际浇水、施肥或调整位置后再记录，让之后的建议有依据。普通提醒不必急着清空。
+**照顾过，就记下来。** 实际浇水、施肥或调整位置后再记录，让之后的建议有依据。不需要为了清空提醒而每天打卡。
 
 **有变化，拍张照片。** 新芽值得记录，黄叶也值得观察。需要帮助时，可用自己配置的视觉大模型辅助诊断，再按计划复查。
 
@@ -56,15 +70,15 @@ https://github.com/user-attachments/assets/0671dd83-f037-4e91-b02c-f2356107d2f1
 
 | 当前安装包 | |
 | :--- | :--- |
-| **版本** | `v0.3.2-rc.1` · 公开测试版 |
+| **版本** | `v0.3.2-rc.2` · 公开测试版 |
 | **适用设备** | Android 7.0 及以上，arm64-v8a |
-| **大小 / 构建号** | 约 22.5 MiB / `10036` |
-| **安装包** | [下载 APK](https://github.com/yaoyouzhong/green-delights-releases/releases/download/v0.3.2-rc.1/green-delights-v0.3.2-rc.1-10036-arm64.apk) |
-| **下载校验** | [SHA-256 清单](https://github.com/yaoyouzhong/green-delights-releases/releases/download/v0.3.2-rc.1/SHA256SUMS.txt) |
+| **大小 / 构建号** | 约 22.5 MiB / `10043` |
+| **安装包** | [下载 APK](https://github.com/yaoyouzhong/green-delights-releases/releases/download/v0.3.2-rc.2/green-delights-v0.3.2-rc.2-10043-arm64.apk) |
+| **下载校验** | [SHA-256 清单](https://github.com/yaoyouzhong/green-delights-releases/releases/download/v0.3.2-rc.2/SHA256SUMS.txt) |
 
 **第一次安装：** 下载 APK，在手机上打开，按 Android 提示允许该文件来源安装。GitHub 自动生成的 “Source code” 压缩包只有分发材料，不是安装包。
 
-**从旧版升级：** 先在“备份恢复”中导出备份，并保存到手机之外。保留旧 App，直接覆盖安装；不要先卸载。本包与旧版使用同一签名，构建号为 `10036`，如果你已安装更高构建号，请保留现有版本。
+**从旧版升级：** 先在“备份恢复”中导出备份，并保存到手机之外。保留旧 App，直接覆盖安装；不要先卸载。本包与旧版使用同一签名，构建号为 `10043`，如果你已安装更高构建号，请保留现有版本。
 
 <details>
 <summary><strong>如何核对下载文件？</strong></summary>
@@ -72,7 +86,7 @@ https://github.com/user-attachments/assets/0671dd83-f037-4e91-b02c-f2356107d2f1
 下载 APK 和 `SHA256SUMS.txt`。在 Windows PowerShell 中运行下面的命令，将输出的 SHA-256 与清单中的 APK 项比较：
 
 ```powershell
-Get-FileHash -Algorithm SHA256 .\green-delights-v0.3.2-rc.1-10036-arm64.apk
+Get-FileHash -Algorithm SHA256 .\green-delights-v0.3.2-rc.2-10043-arm64.apk
 ```
 
 </details>
