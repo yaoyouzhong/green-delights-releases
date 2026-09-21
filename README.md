@@ -9,14 +9,14 @@
 把植物养在生活里，把照护记在手机里。<br />
 从一盆绿萝开始，慢慢拥有自己的小小花园。
 
-**[↓ 下载 Android 测试版](https://github.com/yaoyouzhong/green-delights-releases/releases/download/v0.3.2-rc.2/green-delights-v0.3.2-rc.2-10043-arm64.apk)**　·　[版本说明](https://github.com/yaoyouzhong/green-delights-releases/releases/tag/v0.3.2-rc.2)　·　[反馈问题](https://github.com/yaoyouzhong/green-delights-releases/issues)
+**[↓ 下载 Android 正式版](https://github.com/yaoyouzhong/green-delights-releases/releases/download/v1.0.0/green-delights-v1.0.0-10044-arm64.apk)**　·　[版本说明](https://github.com/yaoyouzhong/green-delights-releases/releases/tag/v1.0.0)　·　[反馈问题](https://github.com/yaoyouzhong/green-delights-releases/issues)
 
-`Android 7.0+`　`arm64-v8a`　`手机本地运行`　`v0.3.2-rc.2`
+`Android 7.0+`　`arm64-v8a`　`手机本地运行`　`v1.0.0`
 
 </div>
 
 > [!NOTE]
-> 这是公开测试版，已在一台 Android 真机完成覆盖升级、启动和首页显示检查；完整业务主流程与其他机型仍需验证。安装前请导出备份，优先在测试设备使用。本仓库提供说明和安装包，应用源码保持私有。
+> 这是 Android 独立版的首个正式版本，通过 GitHub 分发 APK。植物与照护记录保存在手机本地，天气与大模型按需自行配置。本仓库提供说明和安装包，应用源码保持私有。
 
 ## 🎬 48 秒了解怡红快绿
 
@@ -24,11 +24,11 @@ https://github.com/user-attachments/assets/ed22c060-304f-488a-8452-3932e1344db6
 
 点击上方播放器即可在本页观看，建议打开声音。48 秒 · 原生界面演示 · 配乐与音效
 
-[下载 1080p 原片](https://github.com/yaoyouzhong/green-delights-releases/releases/download/v0.3.2-rc.2/green-delights-promo.mp4)
+[下载 1080p 原片](https://github.com/yaoyouzhong/green-delights-releases/releases/download/v1.0.0/green-delights-promo.mp4)
 
 从今日照护、诊断与复查，到植物档案和本地备份，看看日常照护如何串起来。界面使用固定演示数据。
 
-## 这次更新：少一点打扰，多一点清楚
+## v1.0.0：把日常照护留在手机里
 
 - **首页更清楚：** 摘要和天气放在一起，统计按颜色区分，天气去掉重复标题，左侧天气与湿度、右侧突出温度，更新时间独立一行，地点栏与底栏更轻。
 - **浇水按需参考：** 默认关闭普通浇水提醒；关闭“浇水参考”后，首页也会隐藏对应内容。高风险和暂缓照护提示保留。
@@ -70,15 +70,15 @@ https://github.com/user-attachments/assets/ed22c060-304f-488a-8452-3932e1344db6
 
 | 当前安装包 | |
 | :--- | :--- |
-| **版本** | `v0.3.2-rc.2` · 公开测试版 |
+| **版本** | `v1.0.0` · 首个正式版 |
 | **适用设备** | Android 7.0 及以上，arm64-v8a |
-| **大小 / 构建号** | 约 22.5 MiB / `10043` |
-| **安装包** | [下载 APK](https://github.com/yaoyouzhong/green-delights-releases/releases/download/v0.3.2-rc.2/green-delights-v0.3.2-rc.2-10043-arm64.apk) |
-| **下载校验** | [SHA-256 清单](https://github.com/yaoyouzhong/green-delights-releases/releases/download/v0.3.2-rc.2/SHA256SUMS.txt) |
+| **大小 / 构建号** | 约 22.5 MiB / `10044` |
+| **安装包** | [下载 APK](https://github.com/yaoyouzhong/green-delights-releases/releases/download/v1.0.0/green-delights-v1.0.0-10044-arm64.apk) |
+| **下载校验** | [SHA-256 清单](https://github.com/yaoyouzhong/green-delights-releases/releases/download/v1.0.0/SHA256SUMS.txt) |
 
 **第一次安装：** 下载 APK，在手机上打开，按 Android 提示允许该文件来源安装。GitHub 自动生成的 “Source code” 压缩包只有分发材料，不是安装包。
 
-**从旧版升级：** 先在“备份恢复”中导出备份，并保存到手机之外。保留旧 App，直接覆盖安装；不要先卸载。本包与旧版使用同一签名，构建号为 `10043`，如果你已安装更高构建号，请保留现有版本。
+**从旧版升级：** 先在“备份恢复”中导出备份，并保存到手机之外。保留旧 App，直接覆盖安装；不要先卸载。本包与旧版使用同一签名，构建号为 `10044`，如果你已安装更高构建号，请保留现有版本。
 
 <details>
 <summary><strong>如何核对下载文件？</strong></summary>
@@ -86,7 +86,7 @@ https://github.com/user-attachments/assets/ed22c060-304f-488a-8452-3932e1344db6
 下载 APK 和 `SHA256SUMS.txt`。在 Windows PowerShell 中运行下面的命令，将输出的 SHA-256 与清单中的 APK 项比较：
 
 ```powershell
-Get-FileHash -Algorithm SHA256 .\green-delights-v0.3.2-rc.2-10043-arm64.apk
+Get-FileHash -Algorithm SHA256 .\green-delights-v1.0.0-10044-arm64.apk
 ```
 
 </details>
