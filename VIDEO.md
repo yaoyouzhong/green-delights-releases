@@ -2,7 +2,7 @@
 
 48 秒了解新版照护摘要、照片诊断、植物档案与本地备份。点击播放器即可观看，建议打开声音。
 
-https://github.com/user-attachments/assets/0671dd83-f037-4e91-b02c-f2356107d2f1
+https://github.com/user-attachments/assets/ed22c060-304f-488a-8452-3932e1344db6
 
 **[下载 1080p 原片](https://github.com/yaoyouzhong/green-delights-releases/releases/download/v0.3.2-rc.2/green-delights-promo.mp4)** · MP4 · 48 秒
 

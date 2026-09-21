@@ -20,7 +20,7 @@
 
 ## 🎬 48 秒了解怡红快绿
 
-https://github.com/user-attachments/assets/0671dd83-f037-4e91-b02c-f2356107d2f1
+https://github.com/user-attachments/assets/ed22c060-304f-488a-8452-3932e1344db6
 
 点击上方播放器即可在本页观看，建议打开声音。48 秒 · 原生界面演示 · 配乐与音效
 
